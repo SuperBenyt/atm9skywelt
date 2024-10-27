@@ -1,0 +1,40 @@
+{
+	id: "123ab7c0-07bc-4d95-beee-e7c940ad0f16"
+	type: "party"
+	owner: "4ec1744d-c317-48bf-a4fc-893b33088591"
+	ranks: {
+		18eab9da-0984-4f36-979d-117271e93366: "member"
+		3d8c0a8f-15ff-437e-b5e1-4e3f18c2d7d6: "member"
+		4ec1744d-c317-48bf-a4fc-893b33088591: "owner"
+		7feff193-6ff0-43c8-a217-a42ff679007f: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "knax"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730032305399L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"LatmoHD\"}]}" }
+		{ from: "4ec1744d-c317-48bf-a4fc-893b33088591", date: 1730032314986L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Shadox16\"}]}" }
+		{ from: "4ec1744d-c317-48bf-a4fc-893b33088591", date: 1730032314986L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Super_Ben_yt\"}]}" }
+		{ from: "4ec1744d-c317-48bf-a4fc-893b33088591", date: 1730032314987L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Knoecheligel\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730032318344L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Super_Ben_yt\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730032323928L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Shadox16\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730032338011L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Knoecheligel\"}]}" }
+	]
+	extra: { }
+}

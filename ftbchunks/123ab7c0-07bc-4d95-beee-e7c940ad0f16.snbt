@@ -1,0 +1,28 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1730047988911L
+	chunks: { }
+	member_data: {
+		3d8c0a8f-15ff-437e-b5e1-4e3f18c2d7d6: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		4ec1744d-c317-48bf-a4fc-893b33088591: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		7feff193-6ff0-43c8-a217-a42ff679007f: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+		18eab9da-0984-4f36-979d-117271e93366: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+	}
+}
